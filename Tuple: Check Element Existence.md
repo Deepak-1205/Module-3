@@ -27,5 +27,4 @@ else:
 <img width="389" height="84" alt="image" src="https://github.com/user-attachments/assets/7fb770ef-8177-4d1a-880c-e827eb8da79b" />
 
 ## Result
-
 Thus the program has been successfully executed
